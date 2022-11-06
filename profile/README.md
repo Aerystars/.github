@@ -1,12 +1,5 @@
-## Hi there 👋
+## Aerystars
+**Aerystars**是一个刚起步的小独立游戏团队，看起来现在还什么都没有
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+如果有心的话，几个月后再来看看吧~
+>*我们的目标！是！向着！萝卜和被窝！！！*
