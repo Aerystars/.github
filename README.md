@@ -1,2 +1,5 @@
-# .github
-//Only for Special Purposes
+# Aerystars
+Aerystars是一个刚起步的小独立游戏团队，看起来现在还什么都没有
+
+如果有心的话，几个月后再来看看吧~
+>我们的目标！是！向着！萝卜和被窝！！！
